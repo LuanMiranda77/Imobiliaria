@@ -1,0 +1,30 @@
+<list>
+  <list>
+    <string>1</string>
+    <string>LMB</string>
+    <string>Administrador</string>
+    <string>1</string>
+    <string>0.0</string>
+  </list>
+  <list>
+    <string>2</string>
+    <string>LUAN</string>
+    <string>Gerente</string>
+    <string>1</string>
+    <string>2000.0</string>
+  </list>
+  <list>
+    <string>3</string>
+    <string>MARIA</string>
+    <string>Secretaria</string>
+    <string>1</string>
+    <string>998.0</string>
+  </list>
+  <list>
+    <string>4</string>
+    <string>JOAO</string>
+    <string>Corretor</string>
+    <string>1</string>
+    <string>1500.0</string>
+  </list>
+</list>
